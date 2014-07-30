@@ -1,0 +1,1 @@
+{"type":"maven","properties":[{"name":"builder.name","value":["maven"]}, {"name":"runner.name","value":["JavaStandaloneCassandra"]}]}
