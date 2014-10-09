@@ -1,1 +1,1 @@
-{"attributes":{},"projectTypeId":"maven","builder":"maven","runner":"java-standalone-cassandra","defaultBuilderEnvironment":null,"defaultRunnerEnvironment":null,"builderEnvironmentConfigurations":{},"runnerEnvironmentConfigurations":{},"description":null}
+{"type":"maven","attributes":{},"builders":{"default":"maven"},"runners":{"default":"java-standalone-cassandra","configs":{}}}
