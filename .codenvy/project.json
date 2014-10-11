@@ -1,1 +1,1 @@
-{"type":"maven","attributes":{},"builders":{"default":"maven"},"runners":{"default":"java-standalone-cassandra","configs":{}}}
+{"type":"maven","attributes":{},"runners":{"default":"system:/java-standalone-cassandra/default","configs":{}},"builders":{"default":"maven"}}
